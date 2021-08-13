@@ -17,4 +17,5 @@
 * How to create a branch
 * How to work as collaborators on a project
 * Which files should and which files should not appear in your repo
+* Updated this file from Github
 
